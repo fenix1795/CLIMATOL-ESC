@@ -4,7 +4,9 @@ Descargué información de precipitación desde Google Earth Engine, empleando l
  Resultados principales en Áncash:
  
 • Nov–Dic 2025: déficit de lluvias y condiciones de sequía.
+
 • Enero 2026: incremento de precipitaciones y condiciones más húmedas.
+
 • Febrero 2026: lluvias irregulares con zonas de exceso y déficit.
 
 Los resultados muestran una alta variabilidad en las precipitaciones, lo que puede aumentar el riesgo de huaycos y deslizamientos en zonas andinas.
