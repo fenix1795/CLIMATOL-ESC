@@ -10,4 +10,5 @@ Descargué información de precipitación desde Google Earth Engine, empleando l
 • Febrero 2026: lluvias irregulares con zonas de exceso y déficit.
 
 Los resultados muestran una alta variabilidad en las precipitaciones, lo que puede aumentar el riesgo de huaycos y deslizamientos en zonas andinas.
+
 Cita: SPI y anomalías de precipitación de Áncash, Perú. (2026) Eduardo Sanchez Carrión.
